@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMarka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMüşteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMüşteriListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmsatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSatışListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmürünekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmÜrünListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

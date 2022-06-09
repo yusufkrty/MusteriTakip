@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7avSAQ8P36C/QJlrWqVbynowtBzlA/AVsCusVoZrXetdoLvJbIuddKikno7m5jpem87UrDFk3dywzRJT6ksR4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusuf Karatay\\source\\repos\\projedeneme5\\projedeneme5\\projedeneme5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusuf Karatay\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yusuf Karatay\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yusuf Karatay\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Yusuf Karatay\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
